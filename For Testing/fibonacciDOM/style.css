@@ -1,0 +1,7 @@
+.text-div {
+  display: flex;
+}
+
+.text {
+  text-wrap: wrap;
+}
