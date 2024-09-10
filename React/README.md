@@ -1,0 +1,1 @@
+I'm working on updating the course to use the latest web development practices by converting deprecated methods. The course currently uses React 16, but I plan to upgrade it to React 18 (or even React 19).
